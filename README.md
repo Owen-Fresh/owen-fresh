@@ -2,9 +2,11 @@
 
 ### This is Owen's profile
 
-### it's pretty cool
+it's pretty cool
 
-[My portfolio website]((https://freshweb.site/))
+Currently a Senior at PSUGD + the Web Designer at PSU Student Media Tech
+
+Check out my [porfolio site](https://freshweb.site/)!
 <!--
 **Owen-Fresh/owen-fresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
